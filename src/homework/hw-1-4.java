@@ -8,7 +8,7 @@ class MinToSec {
         int minutes = scan.nextInt();
 
         int seconds = minutes * 60;
-        System.out.println("There are " + seconds + " in " + minutes + " minutes");
+        System.out.println("There are " + seconds + " seconds in " + minutes + " minutes");
     }
 }
 
