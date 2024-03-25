@@ -1,4 +1,4 @@
-package classwork;
+package classwork.week3;
 
 import java.util.Scanner;
 
